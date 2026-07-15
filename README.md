@@ -1,6 +1,6 @@
 # yusufprompt-dev
 
-Merhaba! Ben **yustea** (yusufprompt). Bu depo, geliştirdiğim projeleri, araçları ve yapılandırma dosyalarımı barındırmaktadır.
+Merhaba! Ben **yusuf** (yusufprompt). Bu depo, geliştirdiğim projeleri, araçları ve yapılandırma dosyalarımı barındırmaktadır.
 
 ## ⚠️ Önemli Not: Hesap Değişikliği
 Daha önceki ana GitHub hesabım (**@yusufprompt**) teknik/erişim sorunları nedeniyle **kaybolmuştur ve artık kontrolüm dışındadır**. Bu nedenle, tüm açık kaynak projelerimi, geliştirmelerimi ve güncel çalışmalarımı artık bu yeni hesap (**@yusufprompt-dev**) üzerinden sürdürmekteyim. Eski hesaptaki projelerin güncel hallerine ve yeni çalışmalarıma buradan ulaşabilirsiniz.
